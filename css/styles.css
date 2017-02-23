@@ -1,3 +1,41 @@
 #dummy {
   display: none;
 }
+
+#output {
+  font-size: 22pt;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+  color: white;
+  margin-top: 20px;
+}
+
+.blank {
+  width: 50%;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+h4 {
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+  color: white;
+}
+
+label {
+  color: white;
+}
+
+button {
+  margin-top: 20px;
+}
+
+body {
+  background-image: url("../img/triangle.jpg");
+}
